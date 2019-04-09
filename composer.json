@@ -1,0 +1,21 @@
+{
+    "name": "bdourado/gamigo",
+    "description": "Gamigo test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno M. Dourado",
+            "email": "brunomouradourado@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0",
+        "phpunit/phpunit": "^8.2@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bdourado\\Gamigo": "src/"
+        }
+    }
+}
