@@ -2,7 +2,9 @@
 
 #### HOW TO INSTALL
 
-<code>composer require bdourado/gamigo</code>
+<code>git clone https://github.com/bdourado/gamigo.git</code>
+
+Enter the directory "gamigo"
 
 To install php unit <code>composer update</code>
 
