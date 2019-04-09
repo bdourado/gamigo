@@ -1,11 +1,11 @@
-#GAMIGO TEST
+# GAMIGO TEST
 
-###HOW TO INSTALL
+#### HOW TO INSTALL
 
 <code>composer require bdourado/gamigo</code>
 
 To install php unit <code>composer update</code>
 
-###To run phpunit test
+#### To run phpunit test
 <code>./vendor/bin/phpunit test/GamigoTest</code> 
 
